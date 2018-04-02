@@ -11,7 +11,8 @@ JSP, ColdFusion, and Perl.
 
 
 
-运行环境：npm,grunt ,grount-cli
+# 运行环境
+npm,grunt ,grount-cli
 npm install -g grunt
 npm install -g grunt-cli
 
